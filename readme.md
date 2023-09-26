@@ -16,7 +16,7 @@ Um projeto baseado na aula 3 do explorer da Rocketseat com pequenas alterações
 </p>
 
 <p align="center">
-  <img alt="Normal" src="./src/assets/readme2.png" width="80%">
+  <img alt="Normal" src="./src/assets/readme3.png" width="100%">
 </p>
 
 ## 🚀 Techs / Tecnologias
